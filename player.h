@@ -1,9 +1,9 @@
 class player {
-	void player1_input(); //Íæ¼Ò1ÊäÈë
-	void player2_input(); //Íæ¼Ò2ÊäÈë
-	void left_move();	//×óÒÆ·½¿é 
-	void right_move();//ÓÒÒÆ·½¿é 
-	void rotate_move();//Ğı×ª·½¿é
-	void down_move(); //¼ÓËÙ·½¿éÏÂÂä 
-	void judge(); //ÅĞ¶Ï·½¿éÅö×² 
-}
+    void player1_input(); //ç©å®¶1è¾“å…¥
+    void player2_input(); //ç©å®¶2è¾“å…¥
+    void left_move();	//å·¦ç§»æ–¹å— 
+    void right_move();//å³ç§»æ–¹å— 
+    void rotate_move();//æ—‹è½¬æ–¹å—
+    void down_move(); //åŠ é€Ÿæ–¹å—ä¸‹è½ 
+    void judge(); //åˆ¤æ–­æ–¹å—ç¢°æ’ 
+};
