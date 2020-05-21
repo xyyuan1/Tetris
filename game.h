@@ -1,7 +1,5 @@
 class game {
-	void gamestart(); //¿ªÊ¼ÓÎÏ·
-	void gameover();  //ÓÎÏ·½áÊø 
-	void delete_();	//Çå³ı·½¿é 
-	void create_(); //Éú³É·½¿é 
-	void score(); //Í³¼Æ·ÖÊı
+	void gamestart(); //å¼€å§‹æ¸¸æˆ
+	void gameover();  //æ¸¸æˆç»“æŸ 
+	void score(); //ç»Ÿè®¡åˆ†æ•°
 };
