@@ -1,9 +1,3 @@
-#include<iostream>
-#include<string>
-#include<ctime>
-#include<windows.h>
-#include<conio.h>
-using namespace std;
 class block {
 public:
 	int block0[4][4] = { { 10,0,0,0 },{ 1,1,1,1 },{ 0,0,0,0 },{ 0,0,0,0 } };
